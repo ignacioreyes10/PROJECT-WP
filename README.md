@@ -18,3 +18,7 @@ ErasmusHustlers is a web application that allows users to search and book spaces
 
 ## Wireframe
 https://www.figma.com/design/aVWEsj1179tHf3SdflMZHI/Project1---WP2?node-id=0-1&t=Mgi04WMI18uMcuOI-1
+
+## Project Description
+
+ErasmusHustlers is a web application where users can search and book properties for events. Users can filter results, view details and make reservations. Admins can manage properties and users.
