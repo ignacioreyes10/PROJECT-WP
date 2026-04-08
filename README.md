@@ -17,4 +17,4 @@ ErasmusHustlers is a web application that allows users to search and book spaces
 - As a user, I want to book a property so that I can reserve it easily.
 
 ## Wireframe
-https://www.figma.com/design/aVWEsj1179tHf3SdflMZHI/Project1---WP2
+https://www.figma.com/design/aVWEsj1179tHf3SdflMZHI/Project1---WP2?node-id=0-1&t=Mgi04WMI18uMcuOI-1
